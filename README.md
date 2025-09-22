@@ -2,7 +2,7 @@
 Study repo based on Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow by Aurélien Géron (@ageron). Contains the original notebooks with my own modifications, notes, and experiments as I learn and apply ML concepts.
 
 
-# Hands-On Machine Learning – Study Notebooks
+## Hands-On Machine Learning – Study Notebooks
 
 This repository contains my study notes and modified notebooks based on the book  
 **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** by Aurélien Géron ([@ageron](https://github.com/ageron)).
